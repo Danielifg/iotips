@@ -1,5 +1,5 @@
 {
-  "name": "yellowcake",
+  "name": "iotips",
   "HomePage": "https://yellowcake.netlify.com/",
   "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
   "version": "2.0.0",
@@ -34,6 +34,7 @@
     "lodash": "^4.17.15",
     "lodash.clonedeep": "^4.5.0",
     "modern-normalize": "^0.5.0",
+    "netlify-cli": "^2.43.0",
     "netlify-cms-app": "^2.9.7",
     "netlify-cms-media-library-uploadcare": "^0.5.5",
     "node-sass": "^4.13.0",
