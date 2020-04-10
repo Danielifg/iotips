@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the components page subtitle.
+title: Connect with the top providers on the web.
+featuredImage: 'https://ucarecdn.com/7b1bb738-caf8-4a6a-b841-b617a434c562/'
+subtitle: Compare sports apparel prices on the web.
 section1: >-
   ## This is a container component
 
@@ -38,17 +38,17 @@ accordion:
 gallery:
   - alt: Adidas T-shirt/ Medium
     image: 'https://ucarecdn.com/421e917d-5cd8-4cf6-af64-15ca40db2fa2/'
-    title: $27.00 CAD
+    title: Adidas T-shirt/ Medium $27.00 CAD
   - alt: Under Armour Hoddie / Small
     image: 'https://ucarecdn.com/d68b3dc2-b6d2-40ac-ab32-839177a13a88/'
-    title: $58.00 CAD
+    title: Under Armour Hoddie / Small $58.00 CAD
   - alt: 'Under Armour T-shirt / X-small '
     image: 'https://ucarecdn.com/ea5f1957-62aa-40f5-b8d7-8677008d14b9/'
-    title: $30.00 CAD
+    title: Under Armour T-shirt / X-small  $30.00 CAD
   - alt: 'Under Armour Tank Top, Peach / Large'
     image: >-
       https://ucarecdn.com/ebe97db6-f0bb-4dfa-956e-8fc46a613cb2/-/crop/739x595/0,0/-/preview/
-    title: $30.00 CAD
+    title: 'Under Armour Tank Top, Peach / Large $30.00 CAD'
 meta:
   description: This is a meta description.
   title: Components Page
