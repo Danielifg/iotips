@@ -1,12 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: IoTips
-featuredImage: 'https://ucarecdn.com/f69ec7d0-82d7-4ba5-b46e-fc51be82a1e6/'
-subtitle: |-
-  # ****
-
-  # **Connecting products**
+title: .
+featuredImage: 'https://ucarecdn.com/bcfeb908-17ef-4921-be3f-fab267cfa0ab/'
+subtitle: '#'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
