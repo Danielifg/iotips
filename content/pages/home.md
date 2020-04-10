@@ -1,8 +1,8 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+title: IoTips
+featuredImage: 'https://ucarecdn.com/f69ec7d0-82d7-4ba5-b46e-fc51be82a1e6/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
