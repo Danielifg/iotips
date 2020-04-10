@@ -3,7 +3,10 @@ template: HomePage
 slug: ''
 title: IoTips
 featuredImage: 'https://ucarecdn.com/f69ec7d0-82d7-4ba5-b46e-fc51be82a1e6/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: |-
+  # ****
+
+  # **Connecting products**
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
