@@ -23,10 +23,9 @@ section2: |-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
-videoTitle: Also background videos, with poster image & title overlay.
+videoTitle: 'Also background videos, with poster image & title overlay.'
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -37,16 +36,21 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: Adidas T-shirt/ Medium
+    image: 'https://ucarecdn.com/421e917d-5cd8-4cf6-af64-15ca40db2fa2/'
+    title: $27.00 CAD
+  - alt: Under Armour Hoddie / Small
+    image: 'https://ucarecdn.com/d68b3dc2-b6d2-40ac-ab32-839177a13a88/'
+    title: $58.00 CAD
+  - alt: 'Under Armour T-shirt / X-small '
+    image: 'https://ucarecdn.com/ea5f1957-62aa-40f5-b8d7-8677008d14b9/'
+    title: $30.00 CAD
+  - alt: 'Under Armour Tank Top, Peach / Large'
+    image: >-
+      https://ucarecdn.com/ebe97db6-f0bb-4dfa-956e-8fc46a613cb2/-/crop/739x595/0,0/-/preview/
+    title: $30.00 CAD
 meta:
   description: This is a meta description.
   title: Components Page
 ---
+
