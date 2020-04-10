@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the components page subtitle.
+title: Connect with the top providers on the web.
+featuredImage: 'https://ucarecdn.com/7b1bb738-caf8-4a6a-b841-b617a434c562/'
+subtitle: Compare sports apparel prices on the web.
 section1: >-
   ## This is a container component
 
