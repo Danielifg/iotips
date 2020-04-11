@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Connect with the top providers on the web.
-featuredImage: 'https://ucarecdn.com/7b1bb738-caf8-4a6a-b841-b617a434c562/'
+featuredImage: 'https://ucarecdn.com/683fd51b-9fb0-4a9f-a1e5-1f3b35639e73/'
 subtitle: Compare sports apparel prices on the web.
 section1: >-
   ## This is a container component
