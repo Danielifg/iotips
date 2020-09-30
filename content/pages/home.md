@@ -2,29 +2,25 @@
 template: HomePage
 slug: ''
 title: .
-featuredImage: 'https://ucarecdn.com/3c7e4f7d-1f95-4630-ac85-c686edbad697/'
+featuredImage: 'https://ucarecdn.com/a4d13bcf-dc41-4d5b-a13b-615679b88ef0/'
 subtitle: '#'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+We are IoTips a Canadian e-commerce company willing to connect you with the top products and providers around the globe.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# Product Categories
 
-# Features
+* **[M](https://gatsbyjs.org)**arine 
+* Health and house  care
+* Sport appearel 
+* Christmas gifts
+* Home Decoration
+* Office
+* Music
+* Electronics
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+## Full Catalog
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+The full catalog is under develoment apologies for inconvinience.
